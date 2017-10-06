@@ -1,0 +1,94 @@
+h1 {
+    color: white;
+    font-family: vivaldi;
+    font-size: 50px;
+    padding-bottom: 25px;
+
+
+}
+
+body {
+    background-image:url(https://s19.postimg.org/omblzqzlf/logo.jpg);
+    background-repeat: no-repeat;
+    background-position:center;
+    background-color:rgb(15, 15, 15);
+
+}
+
+p {
+    color:whitesmoke;
+    font-family: "monotype corsiva";
+    font-size: 35px;
+    text-decoration: none;
+}
+
+.welcome {
+
+  margin-top: 120px;
+  margin-bottom: 100px;
+  margin-left: 0;
+  height: auto;
+  border-bottom-style: groove;
+  border-top-style: groove;
+  border-color: gold;
+  background: rgba(15, 15, 15, 0.75);
+  overflow: auto;
+
+
+}
+
+.weaves {
+	font-family: vivaldi !important;
+
+    padding: 20, 10, 10, 20;
+}
+
+a {
+  color: black;
+  link(color: gold);
+}
+
+.nav-tab {
+	margin-top: 25px;
+	background-image: url(https://s19.postimg.org/ti1rhdo1f/parchment2.jpg);
+	text-align: center;
+	font-size: 25px;
+	border width: thick;
+    border-style: groove;
+    border-color: gold;
+	border-left-style: none;
+	border-right-style: none;
+	padding-top: 30px;
+    padding-left: 30px;
+	height: 120px;
+}
+
+.nav-tab-first {
+	margin-top: 25px;
+	border-style: groove;
+	border-width: thick;
+	border-color: gold;
+	border-top-left-radius: 50px;
+	border-bottom-left-radius: 50px;
+	border-right-style: none;
+	background-image: url(https://s19.postimg.org/ti1rhdo1f/parchment2.jpg);
+	text-align: center;
+	height: 120px;
+	padding-top: 30px;
+    padding-left: 30px;
+}
+
+.nav-tab-last {
+	margin-top: 25px;
+	border-style: groove;
+	border-width: thick;
+	border-color: gold;
+	border-top-right-radius: 50px;
+	border-bottom-right-radius: 50px;
+	border-left-style: none;
+	background-image: url(https://s19.postimg.org/ti1rhdo1f/parchment2.jpg);
+	text-align: center;
+	height: 120px;
+	 padding-top: 30px;
+    padding-left: 30px;
+}
